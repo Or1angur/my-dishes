@@ -1,4 +1,4 @@
 # my-dishes
 
-npm i
+npm i<br>
 expo start
